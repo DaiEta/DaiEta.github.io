@@ -3,7 +3,7 @@ title: ETA Blog
 SEOTitle: Eta的博客 | ETA Blog
 header-img: img/post-bg-desk.jpg
 email: daiziyu2@gmail.com
-description: "鬼气 九刀流：阿修罗——拔剑·亡者之戏."
+description: "孤独娱乐."
 keyword: "iOS, Apple, iPhone"
 url: "http://DaiEta.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,8 +11,8 @@ github_repo: "https://github.com/DaiEta/DaiEta.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "鬼气 九刀流：阿修罗——拔剑·亡者之戏!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "孤独娱乐!"
+sidebar-avatar: /img/eta.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: daiEta
 
 # Gitalk
 gitalk:
